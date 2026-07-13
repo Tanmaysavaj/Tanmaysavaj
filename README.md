@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="./assets/banner.svg" width="100%">
+<img src="./assets/banner.svg" alt="Tanmay Savaj - Software Engineer focused on Backend, Cloud, AI, and DevOps" width="100%">
 
 </p>
 
@@ -139,12 +139,13 @@ building cool things
   <a href="https://www.linkedin.com/in/tanmaysavaj">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="tanmaysavaj@gmail.com">
+  <a href="mailto:tanmaysavaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  </a>
   <a href="https://tanmaysavaj.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
+  </a>
+
 </p>
 
 ---
